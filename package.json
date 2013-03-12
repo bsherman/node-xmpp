@@ -2,7 +2,7 @@
 ,"version": "0.3.2"
 ,"main": "./lib/node-xmpp"
 ,"description": "Idiomatic XMPP client, component & server library for node.js"
-,"author": "Stephan Maka"
+,"author": "Stephan Maka-bsherman"
 ,"dependencies": {"node-expat": ">=1.4.1"
 		 ,"ltx": ">= 0.1.1"
 		 }
@@ -10,7 +10,7 @@
 		    ,"vows": ">=0.5.12"
 		    }
 ,"repositories": [{"type": "git"
-		  ,"path": "git://github.com/astro/node-xmpp.git"
+		  ,"path": "git://github.com/bsherman/node-xmpp.git"
 		  }]
 ,"homepage": "http://github.com/astro/node-xmpp"
 ,"bugs": "http://github.com/astro/node-xmpp/issues"
